@@ -1,0 +1,42 @@
+# Version control
+.git/
+.gitignore
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+
+# Logs
+logs/
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Docs (not needed for build context)
+docs/
